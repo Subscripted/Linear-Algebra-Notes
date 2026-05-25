@@ -1,0 +1,2 @@
+### Definition:
+- Der Summenvektor repräsentiert die Diagonale im Parallelogramm, das durch die Vektoren aufgespannt wird, oder den Vektor, der beim Aneinanderlegen (Vektorkette) vom Start- zum Endpunkt verläuft. Er ist das Ergebnis der Addition von zwei oder mehr Vektoren.
